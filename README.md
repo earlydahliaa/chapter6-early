@@ -5,7 +5,7 @@
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/iamcemplon1/binar_chapter6.git
+   git clone https://github.com/earlydahliaa/chapter6-early.git
    ```
 
 2. Install packages
@@ -19,4 +19,3 @@
    ```sh
    yarn dev
    ```
-# binar_chapter6
